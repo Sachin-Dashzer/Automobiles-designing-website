@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <>
 
-            <header className='h-20 w-full px-16 bg-transparent fixed top-0 left-0'>
+            <header className='h-20 w-full px-16 fixed top-0 left-0'>
 
                 <div className="mainheader h-full w-full flex justify-between items-center">
                     <div className="logoBox">
