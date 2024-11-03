@@ -21,11 +21,11 @@ NavLink.active{
 
 
 .dropBtns {
-  bottom: 20px;
+  bottom: 12px;
   border-radius: 100%;
   border: 1px solid rgb(255, 255, 255);
   border-top: none;
-  height: 220px;
+  height: 170px;
   width: 1100px;
   transform: rotate(-4deg);
 }
