@@ -9,7 +9,7 @@ NavLink.active{
 }
 .bannerContainer {
   min-height: 600px;
-  box-shadow: 0 0 111px 73px rgba(72, 72, 72, 0.234) inset;
+  box-shadow: 0 0 111px 73px rgba(39, 39, 39, 0.434) inset;
 }
 .BannerImg{
   z-index: 2;
@@ -19,13 +19,19 @@ NavLink.active{
   /* overflow: hidden; */
 }
 
+header{
+  background-color: #00000013;
+}
 
 .dropBtns {
   bottom: 12px;
+  right: 44px;
   border-radius: 100%;
   border: 1px solid rgb(255, 255, 255);
   border-top: none;
   height: 170px;
-  width: 1100px;
+  width: 1090px;
   transform: rotate(-4deg);
 }
+
+
